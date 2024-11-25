@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="TranslationFloatNumCC.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
