@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-
 #define MIN_BASE 2
 #define MAX_BASE 16
 #define MAX_LEN_NUM 14
