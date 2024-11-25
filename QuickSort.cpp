@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <assert.h>
 
-
 enum len {
     MAX_LEN = 2000000,
     MIN_LEN = 1
 };
+
 void QuickSort(int* ptr, int left_border, int right_border);
 void Swap(int* ptr, int index1, int index2);
 
