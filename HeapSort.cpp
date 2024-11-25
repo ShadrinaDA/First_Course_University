@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <assert.h>
+
 enum len {
     MAX_LEN = 2000000,
     MIN_LEN = 1
